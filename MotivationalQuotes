@@ -1,0 +1,25 @@
+{
+  "MotivationalQuotes":
+  [
+    {"Quote":"If something is important enough, even if the odds are stacked against you, you should still do it.","Author":"Elon Musk","Image":"https://csuitespotlight.com/wp-content/uploads/2021/01/Elon-Musk.jpg"},
+    {"Quote":"Don’t be afraid to give up the good to go for the great.","Author":"John D. Rockefeller","Image":"https://th-thumbnailer.cdn-si-edu.com/iReTQ2MXzum31flxJR04ZW080n4=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/88/4f/884f1905-ffa7-48a4-9b47-8f9fe9832eaa/john-d-rockefeller-by-oscar-white-c1900_14751567818.jpg"},
+    {"Quote":"Everything comes to him who hustles while he waits.","Author":"Thomas Edison","Image":"https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg"},
+    {"Quote":"Greatness only comes before hustle in the dictionary","Author":"Ross Simmonds","Image":"https://talentbureau.com/wp-content/uploads/2017/10/SQ-Ross-Simmonds-2048x2048.jpg"},
+    {"Quote":"We are what we repeatedly do. Excellence, then, is not an act, but a habit.","Author":"Aristotle","Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/220px-Aristotle_Altemps_Inv8575.jpg"},
+    {"Quote":"Work like there is someone working 24 hours a day to take it away from you.","Author":"Mark Cuban","Image":"https://cdn1.edgedatg.com/aws/v2/abc/SharkTank/person/942357/52b3a71945b7215c70991783daf27b81/1600x640-Q90_52b3a71945b7215c70991783daf27b81.jpg"},
+    {"Quote":"Some people want it to happen, some wish it would happen, others make it happen.","Author":"Michael Jordan","Image":"https://myhero.com/images/guest/g223081/hero61789/g223081_u71184_jordan.jpg"},
+    {"Quote":"Great things are done by a series of small things brought together.","Author":"Vincent Van Gogh","Image":"https://daily.jstor.org/wp-content/uploads/2023/06/why_we_connect_with_vincent_van_goghs_paintings_1050x700.jpg"},
+    {"Quote":"Work hard in silence, let your success be the noise.","Author":"Frank Ocean","Image":"https://media.gq.com/photos/5c2fe4cdaaa51e5217fd1260/16:9/w_1920,c_limit/frank-ocean-cover-gq-february-2019-03-ext.jpg"},
+    {"Quote":"The big secret in life is that there is no secret. Whatever your goal, you can get there if you’re willing to work.","Author":"Oprah Winfrey","Image":"https://api.time.com/wp-content/uploads/2015/12/oprah.jpeg?quality=85&w=800"},
+    {"Quote":"Never allow a person to tell you no who doesn’t have the power to say yes.","Author":"Eleanor Roosevelt","Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eleanor_Roosevelt_portrait_1933.jpg/494px-Eleanor_Roosevelt_portrait_1933.jpg"},
+    {"Quote":"Amateus sit around and wait for inspiration. The rest of us just get up and go to work.","Author":"Stephen King","Image":"https://stephenking.com/images/press/stephenking-sm.jpg"},
+    {"Quote":"Nothing will work unless you do.","Author":"Maya Angelou","Image":"https://myhero.com/content/images/thumbs/0123634_maya-angelou.jpeg"},
+    {"Quote":"Who's gonna carry the boats and the logs!?","Author":"David Goggins","Image":"https://speaking.com/wp-content/uploads/2022/12/1651686963_David-Goggins.jpg"},
+    {"Quote":"In the middle of every difficulty lies opportunity.","Author":"Albert Einstein","Image":"https://myhero.com/content/images/thumbs/0121472_albert-einstein.jpeg"},
+    {"Quote":"Everyone has inside them a piece of good news. The good news is you don’t know how great you can be! How much you can love! What you can accomplish! And what your potential is.","Author":"Anne Frank","Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Anne_Frank_passport_photo%2C_May_1942.jpg/607px-Anne_Frank_passport_photo%2C_May_1942.jpg"},
+    {"Quote":"Focus on being productive instead of busy.","Author":"Tim Ferriss","Image":"https://speaking.com/wp-content/uploads/2018/10/Tim-Ferriss.jpeg"},
+    {"Quote":"You don’t need to see the whole staircase, just take the first step.","Author":"Martin Luther King Jr.","Image":"https://npr.brightspotcdn.com/dims4/default/1b2ca13/2147483647/strip/true/crop/1140x641+0+0/resize/1760x990!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwlrn%2Ffiles%2F201901%2FMLK.jpeg"},
+    {"Quote":"Be so good they can’t ignore you.","Author":"Steve Martin","Image":"https://cdn.aarp.net/content/aarpe/en/home/entertainment/style-trends/info-2017/steve-martin-standup-comedy-celebrity-interview/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/body_one_cf_one/par4/articlecontentfragme/cfimage.coreimg.50.932.jpeg/content/dam/aarp/entertainment/Styles-and-Trends/2017/05/1140-steve-martin-bow.jpg"},
+    {"Quote":"If you can dream it, you can do it.","Author":"Walt Disney","Image":"https://movieguide.b-cdn.net/wp-content/uploads/2021/05/Walt-Disney.jpg"}
+
+}
